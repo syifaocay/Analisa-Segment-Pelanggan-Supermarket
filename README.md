@@ -1,8 +1,4 @@
 # Analisa-Segment-Pelanggan-Supermarket
-Tugas ini dibuat untuk menyelesaikan Tugas Capstone 2 di Purwadhika
-
-
-# Analisis Perilaku Pelanggan Supermarket  
 ### Mencari "High-Value Customers" & Strategi Pemasaran yang Paling Menguntungkan  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
