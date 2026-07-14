@@ -73,5 +73,5 @@ Di industri retail yang sangat kompetitif, tidak semua pelanggan sama nilainya. 
 
 ## 🔗 Links
 - **Interactive Dashboard (Tableau Public)**: [Dashboard Supermarket](https://public.tableau.com/app/profile/ahmad.syifaul.umam/viz/DashboardSupermarket_17646908624520/DashboardSupermarket)
-- **Notebook**: `Analisa Supermarket.ipynb`
-- **Presentation**: `Optimalisasi-Strategi-Pemasaran-Supermarket-Melalui-Analisis-Perilaku-Pelanggan.pptx`
+- **Notebook**: [Analisa Supermarket.ipynb](https://github.com/syifaocay/Analisa-Segment-Pelanggan-Supermarket/blob/main/Analisa%20Supermarket.ipynb)
+- **Presentation**: [Optimalisasi-Strategi-Pemasaran-Supermarket-Melalui-Analisis-Perilaku-Pelanggan.pptx](https://github.com/syifaocay/Analisa-Segment-Pelanggan-Supermarket/blob/main/Optimalisasi-Strategi-Pemasaran-Supermarket-Melalui-Analisis-Perilaku-Pelanggan.pptx)
