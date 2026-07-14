@@ -8,6 +8,7 @@
 **Dataset**: `Supermarket Customers.csv` (2.240 baris)  
 **Periode data**: 2 tahun terakhir  
 **Tools**: Python • Pandas • Matplotlib • Seaborn • Plotly • SciPy  
+**📊 Interactive Dashboard**: [Lihat di Tableau Public](https://public.tableau.com/app/profile/ahmad.syifaul.umam/viz/DashboardSupermarket_17646908624520/DashboardSupermarket)
 
 ---
 
@@ -59,7 +60,6 @@ Di industri retail yang sangat kompetitif, tidak semua pelanggan sama nilainya. 
 ---
 
 ## Struktur Notebook (`cekdata.ipynb`)
-
 - Latar Belakang & Rumusan Masalah  
 - Data Understanding + Data Dictionary  
 - Exploratory Data Analysis (EDA)  
@@ -71,19 +71,7 @@ Di industri retail yang sangat kompetitif, tidak semua pelanggan sama nilainya. 
 
 ---
 
-## Cara Menjalankan Proyek Ini
-
-```bash
-# 1. Clone repository
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
-
-# 2. (Opsional) Buat virtual environment
-python -m venv venv
-source venv/bin/activate    # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install pandas numpy matplotlib seaborn plotly scipy
-
-# 4. Jalankan notebook
-jupyter notebook cekdata.ipynb
+## 🔗 Links
+- **Interactive Dashboard (Tableau Public)**: [Dashboard Supermarket](https://public.tableau.com/app/profile/ahmad.syifaul.umam/viz/DashboardSupermarket_17646908624520/DashboardSupermarket)
+- **Notebook**: `Analisa Supermarket.ipynb`
+- **Presentation**: `Optimalisasi-Strategi-Pemasaran-Supermarket-Melalui-Analisis-Perilaku-Pelanggan.pptx`
